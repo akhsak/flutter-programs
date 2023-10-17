@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Builder extends StatefulWidget {
-  const Builder({super.key});
+class Buld extends StatefulWidget {
+  const Buld({super.key});
 
   @override
-  State<Builder> createState() => _BuilderState();
+  State<Buld> createState() => _BuldState();
 }
 
-class _BuilderState extends State<Builder> {
+class _BuldState extends State<Buld> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
