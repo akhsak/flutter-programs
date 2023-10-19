@@ -26,7 +26,7 @@ class _listssState extends State<listss> {
                 width: 200,
                 child: ListTile(
                   leading: CircleAvatar(
-                    backgroundImage: AssetImage(Users[index]. image),
+                   // backgroundImage: AssetImage(Users[index]. image),
                   ),
                   title: Text('person $index'),
                 ),

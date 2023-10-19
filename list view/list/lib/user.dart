@@ -9,10 +9,10 @@ class User{
     this.image,
   );
   }
-  List Users=[
-    User(akk, devoleper, )
+  //List Users=[
+  //  User(akk, devoleper, )
 
-  ];
+  //];
 
 
 
